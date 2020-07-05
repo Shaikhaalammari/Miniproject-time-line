@@ -1,6 +1,7 @@
 const styles = {
   text: {
     textAlign: "center",
+    Color: "#80bdab",
   },
 
   list: {
